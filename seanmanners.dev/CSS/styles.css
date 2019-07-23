@@ -1,5 +1,5 @@
 .jumbo-cus {
-   height: 40vh;
+   max-height: 30vh;
    background: black;
    color:white;
    margin-bottom: 0;
